@@ -81,7 +81,7 @@ img, video, audio {
 /* layout? */
 
 * {
-  webkit-box-sizing: broder
+  webkit-box-sizing: border-box
 }
 
 .wrapper {
